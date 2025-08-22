@@ -188,4 +188,4 @@ Este projeto é desenvolvido para fins educacionais e de prática profissional.
 
 ---
 
-**Desenvolvido com ❤️ para especialização em Engenharia de Dados**
+**Desenvolvido para especialização em Engenharia de Dados**
